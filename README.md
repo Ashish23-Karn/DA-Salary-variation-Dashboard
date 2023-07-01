@@ -60,7 +60,7 @@ Here are the top salaries by skills/profession, As we can see business data anal
 
 Here is the "remote work variation" offered by companies in a year, As there were some issues due to coronavirus, in the years 2020, 2021, and 2022 there was continuous growth in "work from home" but there is a dip in remote work phenomena in 2023.
 
-8.
+7.
 ![Screenshot 2023-07-01 052826](https://github.com/Ashish23-Karn/DA-Salary-variation-Dashboard/assets/121361369/b29adf17-8045-4590-8e3c-aa13c41bf8be)
 
 Here is the variation of the number of openings based on experience level, as we can conclude, companies are offering more jobs to "SE" (senior executives) followed by "MI" (mid-level).
