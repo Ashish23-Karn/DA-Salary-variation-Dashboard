@@ -51,7 +51,7 @@ Here is the number of companies we have taken into consideration and their segre
 Here is the chart depicting the employment type. Most of the companies' data that we take into consideration was having full-time analyst/scientist
 
 5.
-![Screenshot 2023-07-01 052734](https://github.com/Ashish23-Karn/DA-Salary-variation-Dashboard/assets/121361369/1686b82b-a021-410b-b81b-b8097fbfd3f1)
+![Screenshot 2023-07-01 060926](https://github.com/Ashish23-Karn/DA-Salary-variation-Dashboard/assets/121361369/a31e30e4-0d19-4709-8b11-031d067562fa)
 
 Here are the top salaries by skills/profession, As we can see business data analyst has the highest salary than a data scientist or a data analyst guy.
 
