@@ -36,7 +36,8 @@ Here is the main PowerBi dashboard which is dynamic in nature and the slicer add
 Here is the variation of "average salary" according to different "locations", From the chart we can conclude that Chile offers more salaries to data scientists in comparison to all other major countries like the USA, the UK or India followed by Hungary.
 
 2.
-![Screenshot 2023-07-01 052505](https://github.com/Ashish23-Karn/DA-Salary-variation-Dashboard/assets/121361369/82d96a48-a503-4463-b7fc-803e5d287c0d)
+![Screenshot 2023-07-01 061228](https://github.com/Ashish23-Karn/DA-Salary-variation-Dashboard/assets/121361369/3429bb59-5ea8-49f7-a44a-dcd2164c34e4)
+
 
 Here is the maximum salary offered at a location and again Chile is having the lead followed by Hungary.
 
