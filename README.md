@@ -1,34 +1,34 @@
 # DA/DS salary variation
---Introduction--
+**--Introduction--**
 
 As data is the fuel for the future economic growth of a company and Data Science is the fastest-emerging field in the world. It becomes necessary and need of the hour to analyze the salary variations for data science and its streams corresponding to factors such as skills, years, and locations.
 
---Problem aimed to solve--
+**--Problem aimed to solve--**
 The aim of the project is to have some basic insights which can affect the salary in the data science field and to create the interactive PowerBi dashboard for the same.
 The dataset contains information about the minimum salary, maximum salary, average salary, job description, location of the company, years, etc.
 
---Data Description--
+**--Data Description--**
 1. Excel dataset files: This folder has the cleaned dataset for salary variation in .csv format.
 2. PowerBi dashboard: This folder has the PowerBi Dashboard in .pbix format.
 
---Methodolgy--
+**--Methodolgy--**
 
 The project involves collecting and processing DA/DS salary variation data for different locations and years. It utilizes data analysis techniques to have insights about salary variation corresponding to basic skills, years, and locations.
 
---Phases--
+**--Phases--**
 
 1. Scrape the data
 2. Data cleaning using Power Query editor
 3. Data visualization/Dashboard by using PowerBi
 
 
---DashBoard Creation--
+**--DashBoard Creation--**
 
 Here is the main PowerBi dashboard which is dynamic in nature and the slicer added is for different countries/locations and corresponding years so that we can see the growth/fall yearly and at different locations.
 
 ![Screenshot 2023-07-01 052025](https://github.com/Ashish23-Karn/DA-Salary-variation-Dashboard/assets/121361369/0b5d1174-7373-488a-a689-95c78729be26)
 
---Insights--
+**--Insights--**
 
 1.
 ![Screenshot 2023-07-01 052712](https://github.com/Ashish23-Karn/DA-Salary-variation-Dashboard/assets/121361369/53b14bc2-1b10-4342-bbad-01374400ce43)
